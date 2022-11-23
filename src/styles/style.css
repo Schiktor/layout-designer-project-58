@@ -34,7 +34,6 @@ body {
   line-height: 1.6em;
   color: #2A2626;
 
-  margin: 0;
 }
 
 /*---------------------------------------------------------------------- SIMPLE ELEMENTS */
@@ -103,11 +102,7 @@ img {
   background-color: #b09a81;
 }
 
-.container {
-  margin: 0 8px;
 
-  box-sizing: border-box;
-}
 
 .container-bg::before {
   content: '';
